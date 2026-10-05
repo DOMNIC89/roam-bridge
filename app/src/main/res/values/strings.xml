@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoamBridge</string>
+    <string name="service_running_title">RoamBridge Active</string>
+    <string name="service_running_desc">Monitoring SMS and Telegram/IMAP commands in real time</string>
+    <string name="channel_daemon_name">RoamBridge Daemon Service</string>
+    <string name="channel_daemon_desc">Notification channel keeping the SIM relay service alive</string>
+    <string name="channel_alerts_name">RoamBridge Relay Alerts</string>
+    <string name="channel_alerts_desc">Alerts for inbound and outbound SMS relays</string>
+</resources>
